@@ -1,6 +1,6 @@
  Hi there 👋
  
- I'm Soumyadeep, a fullstack web developer. Still polishing my skills and googling things.
+ I'm Soumyadeep Bhattacharya, a fullstack web developer from Kolkata, India.
 
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything Frontend Web Dev/NodeJS/MongoDB
