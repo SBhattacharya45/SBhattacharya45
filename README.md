@@ -7,7 +7,7 @@
 - 📫 How to reach me: <a href="https://www.facebook.com/soumyadeep.bhattacharya.167">Facebook</a>
 - ⚡ Fun fact: I am a massive weeb
 
-I work using
+I work using:
 <div>
  <img src="https://user-images.githubusercontent.com/43139047/88949223-95f28f00-d2b0-11ea-8547-f3b5dba3bc16.png">
 <img src="https://user-images.githubusercontent.com/43139047/88949298-ad317c80-d2b0-11ea-9ae3-231f830529d3.png">
