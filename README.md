@@ -16,7 +16,7 @@ I work using:
 <img src="https://user-images.githubusercontent.com/43139047/88949406-d18d5900-d2b0-11ea-8698-743191bcf82d.png">
 <img src="https://user-images.githubusercontent.com/43139047/88949435-d94cfd80-d2b0-11ea-99df-1d687279907b.png">
 <img src="https://user-images.githubusercontent.com/43139047/88949470-e669ec80-d2b0-11ea-8f8f-3620c8924bb4.png">
-<img style="width:30px" src="https://user-images.githubusercontent.com/43139047/95042770-86505600-06f8-11eb-9106-45723fb5d2da.png">
+<img width="48" src="https://user-images.githubusercontent.com/43139047/95042770-86505600-06f8-11eb-9106-45723fb5d2da.png">
 </div>
 
 
