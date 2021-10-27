@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Angular
 - 💬 Ask me about anything Frontend Web Dev/NodeJS/MongoDB/React
-- 📫 How to reach me: <a href="https://www.facebook.com/soumyadeep.bhattacharya.167">Facebook</a>
+- 📫 Find me at: <a href="https://soumyadeep-bhattacharya.vercel.app/">soumyadeep-bhattacharya.vercel.app</a>
 - ⚡ Fun fact: I am a beginner in japanese language
 
 I work using:
