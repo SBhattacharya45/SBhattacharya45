@@ -18,5 +18,3 @@ I work using:
 <img src="https://user-images.githubusercontent.com/43139047/88949470-e669ec80-d2b0-11ea-8f8f-3620c8924bb4.png">
 <img width="48" src="https://user-images.githubusercontent.com/43139047/95042770-86505600-06f8-11eb-9106-45723fb5d2da.png">
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBhattacharya45&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
