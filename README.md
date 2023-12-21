@@ -2,7 +2,6 @@
  
  I'm Soumyadeep Bhattacharya, a fullstack web developer from Kolkata, India.
 
-- 🌱 I’m currently learning Angular
 - 💬 Ask me about anything Frontend Web Dev/NodeJS/MongoDB/React
 - 📫 Find me at: <a href="https://soumyadeep-bhattacharya.vercel.app/">soumyadeep-bhattacharya.vercel.app</a>
 - ⚡ Fun fact: I am a beginner in japanese language
